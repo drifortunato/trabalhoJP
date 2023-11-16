@@ -1,0 +1,1 @@
+class Pessoa(var nome: String, var peso: Float, var altura: Float)
